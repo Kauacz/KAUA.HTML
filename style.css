@@ -1,10 +1,5 @@
 <header>{margin:50px ;
-background-color: #d16d6d;
-justify-content:40px;
-padding-top:10px;
-border-color: #d16d6d;
-
-}
+background-color: #d16d6dmodificaçao;
 
 
 
@@ -12,9 +7,9 @@ border-color: #d16d6d;
 
 body
 {background-color: #d16d6d;
-color: #d16d6d;
-}
-section{background-color: #d16d6d;
-margin: ;
-display:flex
+color: #d16d6d;}
+
+section{
+display: flex;
+padding:auto;
 }
