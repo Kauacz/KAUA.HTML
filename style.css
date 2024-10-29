@@ -1,10 +1,10 @@
 <header>{margin:50px ;
-background-color: #d16d6d;
-margin: auto;
+border: solid 7px rgb(red, green, blue);
+
 
 
 body
-{background-color: #d16d6d;
+{background-color: #f3e853;
 color: #d16d6d;}
 
 section{
