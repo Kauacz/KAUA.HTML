@@ -1,13 +1,24 @@
-<header>{margin:50px ;
-border: solid 7px rgb(red, green, blue);
-}
-
-
 body
-{background-color: #f3e853;
-color: #d16d6d;}
+{background-color: blue;
+color: #161ae4;}
 
-section{
-display: flex;
-padding:auto;
+
+
+<section>
+{background-color: #161ae4;
+padding-top: ;
+padding-bottom:88px;
+display: flex;}
+
+ .primeira chamada{
+    display: flex;
+    overflow-x:auto;
+    gap: 10px
+ }
+  
+header{
+margim 5px
+border solido 5px:;
+padding:20px;
 }
+
