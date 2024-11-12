@@ -11,6 +11,10 @@ padding-bottom:88px;
 display: flex;}
 
  .primeira chamada{
+margin-right: 5%;
+ }
+
+    .mais informaçoes do trator{ 
     display: flex;
     overflow-x:auto;
     gap: 10px
