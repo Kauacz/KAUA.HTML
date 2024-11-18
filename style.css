@@ -1,28 +1,29 @@
-body
-{background-color: blue;
-color: #161ae4;}
-
-
-
-<section>
-{background-color: #161ae4;
-padding-top: ;
-padding-bottom:88px;
-display: flex;}
-
- .primeira chamada{
-margin-right: 5%;
- }
-
-    .mais informaçoes do trator{ 
-    display: flex;
-    overflow-x:auto;
-    gap: 10px
- }
-  
-header{
-margim 5px
-border solido 5px:;
-padding:20px;
+<body> {
+background-color: rgb(146, 218, 191);
+color: black;
 }
 
+<section> {
+    background-color: blanchedalmond;
+    padding-top:85px ;
+    display: flex;
+}
+ .primeirachamada {
+ margin-right: 5%;
+ }
+
+  .maisvideossobremotoscommortorzao {
+    display: flex;
+    overflow-y: auto;
+    gap: 10px;
+  }
+
+
+header {
+margin:40px ;
+background-color: #5350F2;
+border: solid 3px rgb(rgb(41, 247, 0), rgb(222, 238, 0), blue);
+padding:25px; 
+}
+
+ 
